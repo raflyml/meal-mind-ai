@@ -42,7 +42,7 @@ indo_labels.yaml
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/meal-mind-ai.git
+    git clone https://github.com/raflyml/meal-mind-ai.git
     cd meal-mind-ai
     ```
 
